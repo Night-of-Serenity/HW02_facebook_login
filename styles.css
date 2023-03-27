@@ -98,8 +98,10 @@
         .create-page a{
             font-weight: bold;
             text-decoration: none;
+            color: black;
         }
 
         .create-page a:hover {
             text-decoration: underline;
+            color: black;
         }
